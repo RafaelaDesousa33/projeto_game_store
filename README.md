@@ -2,6 +2,10 @@ Game Store
 
 Este projeto é uma página web simples de uma loja de jogos desenvolvida para praticar conceitos de desenvolvimento front-end.
 
+## Preview do Projeto
+
+![Preview do projeto](projeto_game_store_foto.png)
+
 Sobre o projeto
 
 A Game Store é um layout de site que apresenta jogos em uma interface organizada, simulando uma loja virtual. O objetivo do projeto é treinar a criação de páginas utilizando HTML e CSS, além de trabalhar organização de layout e estilização.
